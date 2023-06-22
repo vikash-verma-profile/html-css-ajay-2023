@@ -1,0 +1,6 @@
+git init==>used to intialize git in our local folder
+git add . ==> add all files to be pushed to server
+git commit -m "first commit"  ==> create a batch that needs to be pushed to server
+git branch -M main ==>creates a main branch 
+git remote add origin https://github.com/vikash-verma-profile/html-css-ajay-2023.git ==>add your repo
+git push -u origin main===>push code to server in the respective branch in repo
